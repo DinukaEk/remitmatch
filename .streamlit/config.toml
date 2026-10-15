@@ -1,0 +1,14 @@
+[server]
+address = "127.0.0.1"
+enableCORS = true
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#6DE4C6"
+backgroundColor = "#09131F"
+secondaryBackgroundColor = "#142333"
+textColor = "#F3F7FB"

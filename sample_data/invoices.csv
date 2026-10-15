@@ -1,0 +1,11 @@
+invoice_id,customer,amount,date,aliases
+INV-1001,Sunrise Bakers,18500.00,2026-10-01,Sunrise Bakery|Sunrise Bakes
+INV-1002,Nimali Grocery Stores,42750.00,2026-10-02,Nimali Stores|Nimali Groceries
+INV-1003,Green Leaf Pharmacy,12300.00,2026-10-03,Greenleaf Pharma
+INV-1004,Blue Ocean Printing,8900.00,2026-10-05,Blue Ocean Printers
+INV-1005,Ruwan Auto Spares,29750.00,2026-10-05,Ruwan Auto Parts
+INV-1006,City Cafe Colombo,16000.00,2026-10-06,City Cafe
+INV-1007,Lanka Tech Repairs,13500.00,2026-10-06,Lanka Tech
+INV-1008,Metro Office Supplies,7200.00,2026-10-07,Metro Office
+INV-1009,Alpha Hardware,10000.00,2026-10-08,Alpha Tools
+INV-1010,Alpine Hardware,10000.00,2026-10-08,Alpine Tools

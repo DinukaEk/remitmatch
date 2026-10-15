@@ -1,0 +1,12 @@
+payment_id,expected_invoice_id,category
+BNK-001,INV-1001,expected_unique
+BNK-002,INV-1002,expected_unique
+BNK-003,INV-1003,expected_unique
+BNK-004,INV-1004,expected_unique
+BNK-005,INV-1005,expected_unique
+BNK-006,INV-1006,expected_unique
+BNK-007,INV-1007,expected_unique
+BNK-008,INV-1008,expected_duplicate_group
+BNK-009,,ambiguous
+BNK-010,,unmatched
+BNK-011,INV-1008,expected_duplicate_group

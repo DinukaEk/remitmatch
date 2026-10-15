@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+*.log
+*.zip
+model_cache/
+# Never accidentally commit real invoices or bank statements.
+private_data/

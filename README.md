@@ -168,10 +168,6 @@ Small retail shops, local service businesses, accountants handling multiple clie
 - No persisted database; approvals live in the current browser session until exported. Back up exported CSVs as appropriate.
 - The repository contains no real banking data; please do not commit yours.
 
-## Hacktoberfest submission
-
-See [`SUBMISSION.md`](SUBMISSION.md) for the draft. Replace the GitHub and demo placeholders once you publish the repository and record a real walkthrough. Do not claim a customer trial or model evaluation you have not performed.
-
 ## License
 
 MIT for this app; [Apache-2.0 for the embedding model](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2).
